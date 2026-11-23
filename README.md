@@ -137,3 +137,8 @@ This project explores several fundamental concepts in automation and embedded sy
 <p align="center">
   <i>Exploring the intersection of embedded systems, electronics, and intelligent automation.</i>
 </p>
+
+## Demo
+
+<img width="534" height="540" alt="Screenshot 2026-11-22 at 10 21 43 PM" src="https://github.com/user-attachments/assets/404713e6-745a-4eca-bc3b-55cac2ad730e" />
+
