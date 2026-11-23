@@ -134,14 +134,6 @@ This project explores several fundamental concepts in automation and embedded sy
 - [ ] Introduce wireless data transmission.
 - [ ] Expand detection capabilities and proximity alerts.
 
-## 👨‍💻 Author
-
-**Atharva Ghodke**
-
-Automation Systems Engineering Student | McMaster University
-
----
-
 <p align="center">
   <i>Exploring the intersection of embedded systems, electronics, and intelligent automation.</i>
 </p>
